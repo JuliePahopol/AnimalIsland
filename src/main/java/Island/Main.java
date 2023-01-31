@@ -1,8 +1,8 @@
 package Island;
-import IslandSettings.Location.IslandSettings.Island;
-import IslandSettings.Location.IslandSettings.IslandSettings;
-import IslandSettings.Location.IslandSettings.LifeSimulator;
-import IslandSettings.Location.IslandSettings.SettingsReader;
+import Island.Setting.Island;
+import Island.Setting.IslandSettings;
+import Island.Setting.LifeSimulator;
+import Island.Setting.SettingsReader;
 
 public class Main {
 

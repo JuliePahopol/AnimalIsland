@@ -1,6 +1,6 @@
 package Island.Plant;
 
-import IslandSettings.Location.IslandSettings.Location;
+import Island.Setting.Location;
 
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;

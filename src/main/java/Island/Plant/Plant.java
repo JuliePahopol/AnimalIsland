@@ -1,7 +1,7 @@
 package Island.Plant;
 
-import IslandSettings.Location.IslandSettings.Randomizer;
-import IslandSettings.Location.IslandSettings.Location;
+import Island.Setting.Randomizer;
+import Island.Setting.Location;
 import lombok.Getter;
 
 public class Plant {

@@ -1,6 +1,6 @@
 package Island.Plant;
 
-import IslandSettings.Location.IslandSettings.Location;
+import Island.Setting.Location;
 
 public class PlantTask {
     private final Plant plant;
